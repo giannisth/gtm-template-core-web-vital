@@ -1,0 +1,6 @@
+homepage: "https://www.thecodebee.com/"
+documentation: "https://thecodebee.com/tag/google-tag-manager/"
+versions:
+  # Latest version
+  - sha: 3ba789af793d38d55f41d6ba48cac1a83390a624
+    changeNotes: Initial release.
